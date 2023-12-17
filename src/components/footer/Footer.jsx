@@ -22,12 +22,7 @@ const Footer = () => {
                     <li className="menuItem">FAQ</li>
                 </ul>
                 <div className="infoText">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                    do eiusmod tempor incididunt ut labore et dolore magna
-                    aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                    ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                    Duis aute irure dolor in reprehenderit in voluptate velit
-                    esse cillum dolore eu fugiat nulla pariatur.
+                Welcome to Movix, your premier destination for a cinematic journey at your fingertips. Dive into an extensive library, enjoy seamless streaming, and explore a world of entertainment without borders. Movix offers personalized recommendations in a user-friendly interface, making every click a gateway to a tailored cinematic experience.
                 </div>
                 <div className="socialIcons">
                     <span className="icon">
